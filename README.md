@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing Computer Science Engineering with A.I & M.L at NGIT .
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me INSTAGRAM D.M :- @m.a.r.naseer
-               gmail : rehmannaseer3@gmail.com
+              || Gmail : rehmannaseer3@gmail.com
 
 <!---
 mar-naseer/mar-naseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
