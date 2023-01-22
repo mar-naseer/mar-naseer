@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mar-naseer M.A.Rehman Naseer from Hyderabad India.
-- 👀 I’m interested in learning and advancing technology around me!!
+- 👀 I’m fascinated about learning and advancing the given technology around me!!
 - **  I'm Currently selected as Campus-Lead at EdVenture Park.
-- 🌱 I’m currently pursuing Computer Science Engineering with A.I & M.L at NGIT .
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing Computer Science Engineering with [AI-ML] Specialization at NGIT .
 - 📫 To reach me INSTAGRAM D.M :- @m.a.r.naseer
               || Gmail : rehmannaseer3@gmail.com
 
