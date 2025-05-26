@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mar-naseer M.A.Rehman Naseer from Hyderabad India.
 - 👀 I’m fascinated about learning and advancing with the given technology around me!!
-- 🌱 I’m currently pursuing Computer Science Engineering with [AI-ML] Specialization at NGIT .
+- 🌱 I’m a Computer Science Engineering AI/ML Graduate from Osmania University .
 - 📫 To reach me at Gmail : rehmannaseer3@gmail.com
 
 <!---
