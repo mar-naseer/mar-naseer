@@ -6,6 +6,8 @@
 
 📍 Exploring the intersection of AI, analytics, and real-world applications
 
+
+
 🔧 Tech Stack & Skills
 
 Languages: Python, SQL, Java, C, JavaScript, HTML, CSS
@@ -14,6 +16,8 @@ Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm, VS
 Visualization: Tableau, Power BI, Plotly
 Cloud & DevOps: AWS (S3, Lambda, API Gateway), Git, GitHub, Deployment Automation
 Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration
+
+
 
 📌 Featured Projects
 
@@ -38,6 +42,8 @@ Implemented Computer Vision lane detection & obstacle avoidance using JS & CV.
 Django-based platform for teachers & students with real-time scoring dashboards.
 
 (You can link each project to its GitHub repo)
+
+
 
 🌱 Currently Exploring
 
