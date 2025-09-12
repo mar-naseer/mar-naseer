@@ -1,8 +1,8 @@
-👋 Hi, I’m M.A. Rehman Naseer
+👋 Hi, I’m Abdur Rehman Naseer Mohammad
 
 🎓 Computer Science Engineering (AI/ML) Graduate from Osmania University, Hyderabad
 
-💻 Passionate about AI & ML, Python Development, Data Science, Machine Learning Tools, AWS and Software Engineering
+💻 Passionate about AI & ML, Python Development, Data Science, Machine Learning Tools, JAVA Programming, AWS and Software Engineering
 
 📍 Exploring the intersection of AI, analytics, and real-world applications
 
