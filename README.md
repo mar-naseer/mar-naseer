@@ -1,6 +1,6 @@
 👋 Hi, I’m Abdur Rehman Naseer Mohammad
 
-🎓 Computer Science Engineering (AI/ML) Graduate from Osmania University, Hyderabad
+🎓 Bachelor of Engineering in Computer Science (AI/ML) Graduate from Osmania University, Hyderabad
 
 💻 Passionate about AI & ML, Python Development, Data Science, Machine Learning Tools, JAVA Programming, AWS and Software Engineering
 
@@ -13,7 +13,7 @@
 Languages: Python, SQL, Java, C, JavaScript, HTML, CSS
 Data Science & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regression, Classification, Clustering, Time Series
 Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm, VS Code
-Visualization: Tableau, Power BI, Plotly
+Visualization: Tableau, Power BI, Seaborn
 Cloud & DevOps: AWS (S3, Lambda, API Gateway), Git, GitHub, Deployment Automation
 Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration
 
