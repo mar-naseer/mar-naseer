@@ -59,7 +59,7 @@ Has a good interest in learning OOPS Concepts and Java Programming
 
 📧 Email: rehmannaseer3@gmail.com
 
-💼 LinkedIn: linkedin.com/in/marnaseer
+💼 LinkedIn: https://www.linkedin.com/in/marnaseer/
 
 ✨ Always open to collaboration, learning, and exciting opportunities in Python, Data Science, and Software Engineering.
 
