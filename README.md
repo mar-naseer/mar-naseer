@@ -11,11 +11,16 @@
 🔧 Tech Stack & Skills
 
 Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
+
 Data Science & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regression, Classification, Clustering, Time Series
+
 Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm, VS Code
+
 Visualization: Tableau, Power BI, Seaborn
+
 Cloud & DevOps: AWS (S3, Lambda, API Gateway), Git, GitHub, Deployment Automation
-Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration
+
+Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teaching
 
 
 
