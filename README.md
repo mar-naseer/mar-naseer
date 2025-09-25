@@ -4,7 +4,7 @@
 
 💻 Passionate about AI & ML, Python Development, Data Science, Machine Learning Tools, JAVA Programming, AWS and Software Engineering
 
-📍 Exploring the intersection of AI, analytics, and real-world applications
+📍 Exploring the intersection of AI, analytics, Cloud and real-world applications
 
 
 
