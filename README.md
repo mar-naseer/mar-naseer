@@ -8,7 +8,7 @@
 
 
 
-🔧 My Tech Stack & Skills
+🔧 My Tech Stack & Skills 🔧
 
 Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
 
@@ -45,8 +45,6 @@ Implemented Computer Vision lane detection & obstacle avoidance using JS & CV.
 🔹 Online Quiz Platform
 
 Django-based platform for teachers & students with real-time scoring dashboards.
-
-(You can link each project to its GitHub repo)
 
 
 
