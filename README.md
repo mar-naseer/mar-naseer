@@ -20,7 +20,7 @@ Visualization: Tableau, Power BI, Seaborn
 
 Cloud & DevOps: AWS (S3, Lambda, API Gateway), Git, GitHub, Deployment Automation
 
-Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teaching
+Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teaching students
 
 
 
@@ -56,7 +56,7 @@ Enhancing skills in SQL, Data Engineering & Cloud (AWS)
 
 Open-source contributions in Python & Data Science projects
 
-Has a good interest in learning OOPS Concepts and Java Programming
+Has a good interest in learning OOPS Concepts and AWS 
 
 📫 Let’s Connect
 
