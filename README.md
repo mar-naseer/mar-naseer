@@ -64,7 +64,7 @@ Has a good interest in learning OOPS Concepts and AWS
 
 💼 LinkedIn: https://www.linkedin.com/in/marnaseer/
 
-✨ Always open to collaboration, learning, and exciting opportunities in Python, Data Science, and Software Engineering.
+✨ I'm Optimist and always open to collaboration, learning, and exciting opportunities in Python, Data Science, and Software Engineering.
 
 <!---
 mar-naseer/mar-naseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
