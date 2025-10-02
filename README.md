@@ -18,7 +18,7 @@ Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm, VS
 
 Visualization: Tableau, Power BI, Seaborn
 
-Cloud & DevOps: AWS (S3, Lambda, API Gateway), Git, GitHub, Deployment Automation
+Cloud & DevOps: AWS (S3, EC2, Lambda, API Gateway), Git, GitHub, Deployment Automation
 
 Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teaching students
 
