@@ -14,7 +14,7 @@ Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
 
 Data Science & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regression, Classification, Clustering, Time Series, AWS Sagemaker
 
-Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm, VS Code
+Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm editor, VS Code
 
 Visualization: Tableau, Power BI, Seaborn
 
