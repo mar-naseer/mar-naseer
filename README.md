@@ -16,7 +16,7 @@ Data Science & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regres
 
 Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm editor, VS Code
 
-Visualization: Tableau, Power BI, Seaborn
+Visualization: Tableau, Power BI, Seaborn, MS Excel, MS Word
 
 Cloud & DevOps: AWS (S3, EC2, Lambda, API Gateway), Git, GitHub, Deployment Automation
 
