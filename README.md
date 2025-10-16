@@ -58,7 +58,8 @@ Open-source contributions in Python & Data Science projects
 
 Has a good interest in learning OOPS Concepts and AWS Cloud 
 
-📫 Let’s Connect
+
+Let’s Connect
 
 📧 Email: rehmannaseer3@gmail.com
 
