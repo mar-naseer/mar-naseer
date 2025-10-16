@@ -24,7 +24,7 @@ Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teac
 
 
 
-📌 Featured Projects
+📌 Featured Projects :
 
 🔹 AI Job Matching Assistant
 
@@ -48,7 +48,7 @@ Django-based platform for teachers & students with real-time scoring dashboards.
 
 
 
-🌱 Currently Exploring
+🌱 Currently Exploring :
 
 Building end-to-end ML pipelines
 
