@@ -1,4 +1,6 @@
-👋 Hi, I’m Abdur Rehman Naseer Mohammad.
+_ABOUT_ :
+
+👋 *Hi, I’m Abdur Rehman Naseer Mohammad.*
 
 🎓 Bachelor of Engineering in Computer Science (AI/ML) Graduate from Osmania University, Hyderabad
 
