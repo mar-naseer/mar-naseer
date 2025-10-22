@@ -11,7 +11,7 @@ _ABOUT_ :
 
 
 
-🔧 My Tech Stack & Skills 🔧
+**🔧 My Tech Stack & Skills 🔧**
 
 Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
 
@@ -27,7 +27,7 @@ Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teac
 
 
 
-📌 Featured Projects :
+**📌 Featured Projects :**
 
 🔹 AI Job Matching Assistant
 
