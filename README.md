@@ -10,7 +10,6 @@ _ABOUT_ :
 
 
 
-
 **🔧 My Tech Stack & Skills 🔧**
 
 Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
@@ -53,13 +52,13 @@ Django-based platform for teachers & students with real-time scoring dashboards.
 
 **🌱 Currently Exploring :**
 
-Building end-to-end ML pipelines
+Building end-to-end ML pipelines.
 
-Enhancing skills in SQL, Data Engineering & Cloud (AWS)
+Enhancing skills in SQL, Data Engineering & Cloud (AWS).
 
-Open-source contributions in Python & Data Science projects
+Open-source contributions in Python & Data Science projects.
 
-Has a good interest in learning OOPS Concepts and AWS Cloud 
+Has a good interest in learning OOPS Concepts and AWS Cloud.
 
 
 **Let’s Connect**
