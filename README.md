@@ -27,7 +27,7 @@ Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teac
 
 
 
-**📌 Featured Projects :**
+**📌 Featured Projects 📌:**
 
 🔹 AI Job Matching Assistant
 
