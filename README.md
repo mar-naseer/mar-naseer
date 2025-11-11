@@ -68,6 +68,7 @@ Has a good interest in learning OOPS Concepts and AWS Cloud.
 💼 LinkedIn: https://www.linkedin.com/in/marnaseer/
 
 ✨ I'm Optimist and always open to collaboration, learning, and exciting opportunities in Python, Data Science, and Software Engineering.
+
 🔹 Connect me to engage on tech stuff.
 
 <!---
