@@ -58,7 +58,7 @@ Enhancing skills in SQL, Data Engineering & Cloud (AWS).
 
 Open-source contributions in Python & Data Science projects.
 
-Has a good interest in learning OOPS Concepts and AWS Cloud.
+Has a good interest in learning OOPS Concepts and AWS Cloud Computing.
 
 
 **🔹 Let’s Connect**
