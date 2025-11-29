@@ -49,7 +49,6 @@ Implemented Computer Vision lane detection & obstacle avoidance using JS & CV.
 Django-based platform for teachers & students with real-time scoring dashboards.
 
 
-
 **🌱 Currently Exploring 🔹:**
 
 Building end-to-end ML pipelines.
@@ -58,7 +57,7 @@ Enhancing skills in SQL, Data Engineering & Cloud (AWS).
 
 Open-source contributions in Python & Data Science projects.
 
-Has a good interest in learning OOPS Concepts and AWS Cloud Computing.
+Has a good interest in learning ML Develpoment, OOPS Concepts, AWS Cloud Computing.
 
 
 **🔹 Let’s Connect**
