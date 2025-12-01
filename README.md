@@ -12,7 +12,7 @@ _ABOUT_ :
 
 **🔧 My Tech Stack & Skills 🔧**
 
-Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS
+Languages: Python, MySQL, Java, C, JavaScript, HTML, CSS.
 
 Data Science and ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regression, Classification, Clustering, Time Series, AWS Sagemaker.
 
