@@ -68,7 +68,7 @@ Has a good interest in Learning ML Develpoment, OOPS Concepts, AWS Cloud Computi
 
 ✨ I'm Optimist and always open to collaboration, learning, and exciting opportunities in Python, Data Science, AWS and Software Engineering.
 
-🔹 Connect me to engage on tech stuff & emerging technologies
+🔹 Connect me to engage on tech stuff & emerging technologies.
 
 <!---
 mar-naseer/mar-naseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
