@@ -23,7 +23,7 @@ Visualization: Tableau, Power BI, Seaborn, MS Excel, MS Word
 
 Cloud & DevOps: AWS (S3, EC2, Lambda, API Gateway), Git, GitHub, Deployment Automation
 
-Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Teaching students
+Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Agentic AI, Teaching students
 
 
 
