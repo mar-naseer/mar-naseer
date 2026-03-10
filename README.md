@@ -49,7 +49,7 @@ Implemented Computer Vision lane detection & obstacle avoidance using JavaScript
 
 🔹 Online Quiz Platform
 
-Django-based platform for teachers & students with real-time scoring dashboards.
+Python & Django-based platform for teachers & students with real-time scoring dashboards.
 
 
 
