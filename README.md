@@ -45,7 +45,7 @@ Integrated OpenAI DALL·E API into a Flask app for text-to-image generation.
 
 🔹 Self-Driving Car Simulator
 
-Implemented Computer Vision lane detection & obstacle avoidance using JS & CV.
+Implemented Computer Vision lane detection & obstacle avoidance using JavaScript & CV.
 
 🔹 Online Quiz Platform
 
