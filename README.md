@@ -61,7 +61,7 @@ Open-source contributions in Python & Data Science projects.
 
 Has a good interest in Learning ML Develpoment, OOPS Concepts, AWS Cloud Computing.
 
-Learning about IT Consulting/Services.
+Learning more about IT Consulting/Services.
 
 
 **🔹 Let’s Connect**
