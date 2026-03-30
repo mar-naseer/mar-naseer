@@ -8,7 +8,7 @@ _ABOUT_ :-
 
 💻 Passionate about Artificial Intelligence, Machine Learning, Python Development, Data Science, Agentic AI, Machine Learning Tools, JAVA Programming, AWS Cloud and Software Engineering.
 
-📍 Exploring the intersection of AI/ML, Analytics, Cloud, IT Services and real-world applications.
+📍 Exploring the intersection of AI/ML, Analytics, Cloud, IT Consulting/Services and real-world applications.
 
 
 
