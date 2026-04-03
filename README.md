@@ -76,6 +76,7 @@ Learning more about IT Consulting/Services.
 ✨ I'm Optimist and always open to collaboration, learning, and exciting opportunities in Python, Data Science, AWS and Software Engineering.
 
 🔹 Connect me to engage on tech stuff & emerging technologies.
+  Know more = https://www.datascienceportfol.io/rehmannaseer3
 
 <!---
 mar-naseer/mar-naseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
