@@ -1,7 +1,6 @@
-_ABOUT_ :-
+_ABOUT_ :
 
 👋 **Hi, I'm Abdur Rehman Naseer Mohammad.**
-
 
 
 
