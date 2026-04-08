@@ -5,6 +5,7 @@ _ABOUT_ :
 
 
 
+
 🎓 Bachelor's of Engineering in Computer Science (AI/ML) Graduate from Osmania University, Hyderabad, India.
 
 💻 Passionate about Artificial Intelligence, Machine Learning, Python Development, Data Science, Agentic AI, Machine Learning Tools, Technical Eng, JAVA Programming, AWS Cloud and Software Engineering.
