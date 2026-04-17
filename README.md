@@ -31,7 +31,7 @@ Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Agen
 
 **📌 Featured Projects 📌:**
 
-🔹 AI Job Matching Assistant
+🔹 AI Job Matching Assistant.
 
 Resume-JD matcher using NLP & semantic similarity with optional GPT-powered cover letter generator.
 
