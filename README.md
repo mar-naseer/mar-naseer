@@ -2,7 +2,7 @@ _ABOUT_ :-
 
 👋 **Hi, I'm Abdur Rehman Naseer Mohammad.**
 
--ML Engineer @ Azista Space - APRIL Division, Hyderabad
+-ML Engineer @ Azista Space - APRIL(Advanced Pixel Research Intelligence Laboratory) Division, Hyderabad
 
 
 
