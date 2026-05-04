@@ -6,6 +6,7 @@ _ABOUT_ :
 
 
 
+
 🎓 Bachelor's of Engineering in Computer Science (AI/ML) Graduate from Osmania University, Hyderabad, India.
 
 
