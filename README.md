@@ -1,4 +1,4 @@
-_ABOUT_ :-l
+_ABOUT_ :
 
 👋 **Hi, I'm Abdur Rehman Naseer Md.**
 
