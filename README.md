@@ -33,8 +33,6 @@ Cloud & DevOps: AWS (S3, EC2, Lambda, API Gateway), Git, GitHub, Deployment Auto
 Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Agentic AI, Teaching students
 
 
-
-
 **📌 Featured Projects 📌:**
 
 🔹 AI Job Matching Assistant.
