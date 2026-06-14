@@ -17,7 +17,6 @@ _ABOUT_ :
 
 
 
-
 **🔧 My Tech Stack & Skills 🔧**
 
 Languages: Python, Scikit MySQL, Java, C, JavaScript, HTML, CSS.
