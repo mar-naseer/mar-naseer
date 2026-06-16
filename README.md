@@ -15,8 +15,6 @@ _ABOUT_ :
 📍 Exploring the intersection of AI/ML, Analytics, Cloud, IT Consulting/Services and real-world applications.
 
 
-
-
 **🔧 My Tech Stack & Skills 🔧**
 
 Languages: Python, Scikit MySQL, Java, C, JavaScript, HTML, CSS.
