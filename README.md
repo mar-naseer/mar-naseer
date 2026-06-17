@@ -1,86 +1,102 @@
-_ABOUT_ :
+# Hi there 👋 I'm Abdur Rehman Naseer
 
-👋 **Hi, I'm Abdur Rehman Naseer Md.**
+**ML Intern @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad**  
+**B.E. Computer Science Engineering (AI & ML) | Osmania University**
 
+I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, Image Processing, and Python development. Currently, I work as an ML Intern at Azista APRIL, where I contribute to image analytics and object detection workflows involving aerial and satellite imagery.
 
--ML Engineer @ Azista Space - APRIL(Advanced Pixel Research Intelligence Laboratory) Division, Hyderabad
+My interests lie in building practical AI solutions that bridge research and real-world applications across Machine Learning, Computer Vision, Geospatial Analytics, and Intelligent Systems.
 
+---
 
-🎓 Bachelor's of Engineering in Computer Science (AI/ML) Graduate from Osmania University, Hyderabad, India.
+## 🚀 Current Focus
 
+- Computer Vision & Deep Learning
+- Object Detection using YOLO
+- Digital Image Processing
+- Geospatial & Remote Sensing Analytics
+- Python Development
+- Applied Machine Learning
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Python Development, Data Science, Agentic AI, Machine Learning Tools, OpenCV, Technical Eng, JAVA Programming, AWS Cloud and Software Engineering.
+---
 
+## 🛠️ Tech Stack
 
-📍 Exploring the intersection of AI/ML, Analytics, Cloud, IT Consulting/Services and real-world applications.
+### Languages
+- Python
+- Java
+- C
+- JavaScript
+- SQL
 
+### AI / Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+- NLP
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Object Detection (YOLO)
 
-**🔧 My Tech Stack & Skills 🔧**
+### Frameworks & Tools
+- Flask
+- Django
+- Streamlit
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- PyCharm
+- Confluence
 
-Languages: Python, Scikit MySQL, Java, C, JavaScript, HTML, CSS.
+### Cloud & Platforms
+- AWS SageMaker
+- Amazon S3
+- EC2
+- Lambda
+- API Gateway
 
-Data Science and Machine Learning : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLP, Regression, Classification, Clustering, Time Series, AWS Sagemaker, Computer Vision, Image Analytics
+### Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
 
-Frameworks & Tools: Flask, Django, Streamlit, Jupyter, Google Colab, PyCharm editor, VS Code Editor.
+---
 
-Visualization: Tableau, Power BI, Seaborn, MS Excel, MS Word
+## 📌 Featured Projects
 
-Cloud & DevOps: AWS (S3, EC2, Lambda, API Gateway), Git, GitHub, Deployment Automation.
+### ImgKIT
+Image manipulation and geospatial raster processing toolkit developed during my internship at Azista. Supports image enhancement, histogram analysis, GeoTIFF processing, raster metadata extraction, resampling techniques, and multi-output workflows.
 
-Other Interests: APIs, Web Scraping, Dashboards, Open-Source Collaboration, Agentic AI, Teaching students
+### AI Job Matching Assistant
+NLP-based application that matches resumes with job descriptions using semantic similarity techniques and automates skill extraction workflows.
 
+### Automobile Price Prediction
+Machine Learning project utilizing regression models and Flask deployment for real-time price prediction.
 
+### Cotton Weed Detection
+Computer Vision project using YOLO-based object detection for identifying weed species in agricultural fields.
 
-**📌 Featured Projects 📌:**
+---
 
-🔹 AI Job Matching Assistant.
+## 🌱 Currently Learning
 
-Resume-JD matcher using NLP & semantic similarity with optional GPT-powered cover letter generator.
+- Advanced Computer Vision
+- Remote Sensing & Geospatial Analytics
+- Deep Learning Model Optimization
+- End-to-End ML Pipelines
+- MLOps Fundamentals
 
-🔹 Automobile Price Prediction
+---
 
-ML model + Flask API to predict car prices, trained on 5K+ records with 92% accuracy.
+## 📫 Connect With Me
 
-🔹 DALL·E Image Generation App
+- LinkedIn: www.linkedin.com/in/marnaseer
+- Email: rehmannaseer3@gmail.com
 
-Integrated OpenAI DALL·E API into a Flask app for text-to-image generation.
+---
 
-🔹 Self-Driving Car Simulator
-
-Implemented Computer Vision lane detection & obstacle avoidance using JavaScript & CV.
-
-🔹 Online Quiz Platform
-
-Python & Django-based platform for teachers & students with real-time scoring dashboards.
-
-
-
-**🌱 Currently Exploring 🔹:**
-
-Building end-to-end ML pipelines.
-
-Enhancing skills in SQL, Data Engineering & Cloud (AWS).
-
-Open-source contributions in Python & Data Science projects.
-
-Has a good interest in Learning ML Develpoment, OOPS Concepts, AWS Cloud Computing.
-
-
-
-**🔹 Let’s Connect**
-
-📧 Email: rehmannaseer3@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/marnaseer/
-
-✨ I'm Optimist and always open to collaboration, learning, and exciting opportunities in Python, Data Science, AWS and Software Engineering.
-
-🔹 Connect me to engage on tech stuff & emerging technologies.
-  Know more = https://www.datascienceportfol.io/rehmannaseer3
-
-  
-
-<!---
-mar-naseer/mar-naseer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Continuous learning, practical engineering, and building impactful AI solutions."
