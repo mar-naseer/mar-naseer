@@ -3,7 +3,9 @@
 **ML Intern @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad**  
 **B.E. Computer Science Engineering (AI & ML) | Osmania University**
 
-I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, Image Processing, and Python development. Currently, I work as an ML Intern at Azista APRIL, where I contribute to image analytics and object detection workflows involving aerial and satellite imagery.
+I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, Image Processing, and Python development. 
+
+🛰️Currently, I work as an ML Intern at Azista APRIL, where I contribute to image analytics and object detection workflows involving aerial and satellite imagery.
 
 My interests lie in building practical AI solutions that bridge research and real-world applications across Machine Learning, Computer Vision, Geospatial Analytics, and Intelligent Systems.
 
