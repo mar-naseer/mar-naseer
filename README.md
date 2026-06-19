@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Abdur Rehman Naseer
+# Hi there 👋 
+
+I'm Abdur Rehman Naseer
 
 
 **ML Intern @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad**  
