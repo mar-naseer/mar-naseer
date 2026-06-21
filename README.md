@@ -3,7 +3,7 @@
 I'm Abdur Rehman Naseer
 
 
-**ML Intern @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad**  
+**ML Intern @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad, India.**  
 **B.E. Computer Science Engineering (AI & ML) | Osmania University**
 
 I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, Image Processing, and Python development. 
