@@ -18,10 +18,10 @@ My interests lie in building practical AI solutions that bridge research and rea
 ## 🚀 Current Focus
 
 - Computer Vision & Deep Learning
+- Python Development
 - Object Detection using YOLO
 - Digital Image Processing
 - Geospatial & Remote Sensing Analytics
-- Python Development
 - Applied Machine Learning
 
 ---
