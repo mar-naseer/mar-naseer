@@ -13,7 +13,6 @@ I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer 
 🛰️Currently, I work as an ML Intern at Azista APRIL, where I contribute to image analytics and object detection workflows involving aerial and satellite imagery.
 
 
-
 My interests lie in building practical AI solutions that bridge research and real-world applications across Machine Learning, Computer Vision, Image Analytics, Geospatial Analytics, and Intelligent Systems.
 
 ---
