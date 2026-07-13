@@ -46,12 +46,14 @@ My interests lie in building practical AI solutions that bridge research and rea
 - Scikit-learn
 - Pandas
 - NumPy
-- OpenCV
-- NLP
 - Deep Learning
 - Computer Vision
 - Image Processing
 - Object Detection (YOLO)
+- Albumentations
+- OpenCV
+- NLP
+
 
 ### Frameworks & Tools
 - Flask
