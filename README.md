@@ -93,6 +93,7 @@ Image manipulation and geospatial raster processing toolkit developed during my 
 ### AI Job Matching Assistant
 NLP-based application that matches resumes with job descriptions using semantic similarity techniques and automates skill extraction workflows.
 
+
 ### Automobile Price Prediction
 Machine Learning project utilizing regression models and Flask deployment for real-time price prediction.
 
