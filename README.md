@@ -28,7 +28,6 @@ My interests lie in building practical AI solutions that bridge research and rea
 - Space Technolgy
 - Geospatial & Remote Sensing Analytics
 - Applied Machine Learning
-
 ---
 
 ## 🛠️ Tech Stack
