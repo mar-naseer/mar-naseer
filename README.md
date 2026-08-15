@@ -39,6 +39,7 @@ My interests lie in building practical AI solutions that bridge research and rea
 - JavaScript
 - SQL
 
+
 ### AI / Machine Learning
 - Scikit-learn
 - Pandas
