@@ -18,7 +18,6 @@ My interests lie in building practical AI solutions that bridge research and rea
 
 ## 🚀 Current Focus
 
-
 - Image Processing
 - Computer Vision & Deep Learning
 - Python Development
