@@ -7,8 +7,6 @@ I'm Abdur Rehman Naseer Md!! 🤖
 **ML Engineer @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad, India.**  
 **B.E CSE (AI & ML) | Osmania University**
 
-
-
 I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, AI Systems, Image Processing, and Python development. 
 
 🛰️Currently, I work as an ML Engineer at Azista APRIL, where I contribute to image analytics and object detection/tracking workflows involving aerial and satellite imagery.
