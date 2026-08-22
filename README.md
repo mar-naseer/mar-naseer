@@ -11,10 +11,7 @@ I'm Abdur Rehman Naseer Md!! 🤖
 
 I am an AI/ML enthusiast with hands-on experience in Machine Learning, Computer Vision, AI Systems, Image Processing, and Python development. 
 
-
-
 🛰️Currently, I work as an ML Engineer at Azista APRIL, where I contribute to image analytics and object detection/tracking workflows involving aerial and satellite imagery.
-
 
 
 My interests lie in building practical AI solutions that bridge research and real-world applications across Machine Learning, Computer Vision, Image Analytics, Geospatial Analytics, and Intelligent Systems.
