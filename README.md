@@ -24,6 +24,7 @@ My interests lie in building practical AI solutions that bridge research and rea
 - Object Detection using YOLO
 - Digital Image Processing
 - Space Technolgy
+- QGIS Software 
 - Geospatial & Remote Sensing Analytics
 - Applied Machine Learning
 - Object Tracking
