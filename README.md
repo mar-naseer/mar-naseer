@@ -101,7 +101,6 @@ Machine Learning project utilizing regression models and Flask deployment for re
 ### Cotton Weed Detection
 Computer Vision project using YOLO-based object detection for identifying weed species in agricultural fields.
 
-
 ---
 
 
