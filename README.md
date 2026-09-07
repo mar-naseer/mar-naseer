@@ -45,7 +45,6 @@ My interests lie in building practical AI solutions that bridge research and rea
 
 
 
-
 ### AI / Machine Learning
 - Scikit-learn
 - Pandas
