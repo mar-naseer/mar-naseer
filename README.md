@@ -30,6 +30,7 @@ My interests lies in building practical AI solutions that bridge research and re
 - Geospatial & Remote Sensing Analytics
 - Applied Machine Learning
 - Object Tracking
+- Image Analytics 
 ---
 
 
