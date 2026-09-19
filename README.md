@@ -59,7 +59,6 @@ My interests lies in building practical AI solutions that bridge research and re
 - Albumentations
 - OpenCV
 - NLP
-- 
 
 ### Frameworks & Tools
 - Flask
