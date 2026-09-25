@@ -19,6 +19,7 @@ My interests lies in building practical AI solutions that bridge research and re
 
 - Image Processing
 - Remote Sensing
+- Image Analytics 
 - Computer Vision & Deep Learning
 - Python Development 
 - Image Analytics 
@@ -29,7 +30,6 @@ My interests lies in building practical AI solutions that bridge research and re
 - Geospatial & Remote Sensing Analytics
 - Applied Machine Learning
 - Object Tracking
-- Image Analytics 
 ---
 
 ## 🛠️ Tech Stack
