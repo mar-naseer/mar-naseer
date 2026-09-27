@@ -20,7 +20,8 @@ My interests lies in building practical AI solutions that bridge research and re
 - Image Processing
 - Remote Sensing
 - Image Analytics 
-- Computer Vision & Deep Learning
+- Computer Vision
+- Deep Learning
 - Python Development 
 - Image Analytics 
 - Object Detection using YOLO
