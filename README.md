@@ -127,5 +127,4 @@ Computer Vision project using YOLO-based object detection for identifying weed s
 
 ---
 
-
 > "Continuous learning, practical engineering, and building impactful AI solutions."
