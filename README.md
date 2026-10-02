@@ -115,7 +115,6 @@ Computer Vision project using YOLO-based object detection for identifying weed s
 - End-to-End ML Pipelines
 - MLOps Fundamentals
 
-
 ---
 
 ## 📫 Connect With Me
