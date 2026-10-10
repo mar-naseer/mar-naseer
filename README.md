@@ -1,6 +1,5 @@
 # Hi there!! 👋 
 
-
 I'm Abdur Rehman Naseer Md!! 🤖
 
 **ML Engineer @ Azista APRIL (Advanced Pixel Research & Intelligence Lab), Hyderabad, India.**  
