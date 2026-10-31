@@ -83,7 +83,6 @@ My interests lies in building practical AI solutions that bridge research and re
 ### ImgKIT
 Image manipulation and geospatial raster processing toolkit developed during my internship at Azista. Supports image enhancement, histogram analysis, GeoTIFF processing, raster metadata extraction, resampling techniques, and multi-output workflows.
 
-
 ### AI Job Matching Assistant
 NLP-based application that matches resumes with job descriptions using semantic similarity techniques and automates skill extraction workflows.
 
