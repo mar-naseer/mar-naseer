@@ -26,7 +26,7 @@ My interests lies in building practical AI solutions that bridge research and re
 - Digital Image Processing
 - Space Technolgy
 - QGIS Software 
-- Geospatial & Remote Sensing Analytics
+- Geospatial Analysis
 - Applied Machine Learning
 ---
 
