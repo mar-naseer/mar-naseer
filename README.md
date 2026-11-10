@@ -106,7 +106,6 @@ Computer Vision project using YOLO-based object detection for identifying weed s
 
 ---
 
-
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/marnaseer
