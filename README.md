@@ -30,6 +30,7 @@ My interests lies in building practical AI solutions that bridge research and re
 - QGIS Software 
 - Geospatial Analysis
 - Applied Machine Learning
+- Thermal Object Detection 
 ---
 
 ## 🛠️ Tech Stack
